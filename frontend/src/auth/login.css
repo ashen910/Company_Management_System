@@ -1,0 +1,23 @@
+.bdy {
+  background-image: url("../images/bk1.png");
+  background-repeat: no-repeat, repeat;
+  background-size: 100% 100%;
+}
+.bdyReg {
+  background-image: url("../images/bkreg.png");
+  background-repeat: no-repeat, repeat;
+  background-size: 100% 100%;
+}
+.homebk {
+  background-image: url("../images/homeBg.png");
+  background-repeat: no-repeat, repeat;
+  background-size: 100% 100%;
+}
+/* body {
+
+
+
+  
+   
+    background-image: url("../images/bk.png");
+  } */
